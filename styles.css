@@ -2,6 +2,10 @@ body {
     counter-reset: katexEqnNo mmlEqnNo;
 }
 
+html{
+    scroll-behavior: smooth;
+}
+
 body {
     display: block;
     margin: 8px;
